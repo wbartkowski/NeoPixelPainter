@@ -1,4 +1,4 @@
-# NeoPixel Painter Library
+# NeoPixel Painter Library - version GRBW for RGBW led.
 https://github.com/DedeHai/NeoPixelPainter
 A library to ease the creation of simple LED-strip animations. See examples for some inspiration.
 
